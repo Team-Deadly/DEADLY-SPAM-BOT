@@ -116,7 +116,7 @@ async def start_yukki():
             botme = await idk.get_me()
             await idk(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
             await idk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await idk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
+            await idk(functions.channels.JoinChannelRequest(channel="@DEADY_SPAM_BOT"))
             await idk(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
