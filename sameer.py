@@ -304,7 +304,7 @@ async def start_yukki():
             print("Booting Up The Client 8")
             await cdk.start()
             await cdk(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
+            await cdk(functions.channels.JoinChannelRequest(channel="DEADLY_SPAMMER"))
             await cdk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
             await cdk(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
             botme = await cdk.get_me()
