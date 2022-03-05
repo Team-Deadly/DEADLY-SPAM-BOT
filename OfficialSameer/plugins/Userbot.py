@@ -92,7 +92,7 @@ async def ping(e):
 
 # ALIVE
 
-SAM_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+SAM_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/1b99b29043777af4e3898.jpg"
 
 
 DEADLY = "🔥 ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ 🔥 \n\n"
@@ -103,15 +103,15 @@ DEADLY += f"┣➣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
                            
 DEADLY += f"┣➣ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
 
-DEADLY += f"┣➣ **ᴅᴇᴀᴅʟʏ ᴠᴇʀsɪᴏɴ**  : `{deadlyversion}`\n"
+DEADLY += f"┣➣ **ᴅᴇᴀᴅʟʏ ᴠᴇʀsɪᴏɴ**  : `{8xversion}`\n"
     
-DEADLY += f"┣➣ **sᴜᴘᴘᴏʀᴛ** : [JOIN](https://t.me/DEADLY_SPAM_BOT)\n"
+DEADLY += f"┣➣ **sᴜᴘᴘᴏʀᴛ** : [JOIN](https://t.me/clan8xofficial)\n"
 
-DEADLY += f"┣➣ **ᴄʜᴀɴɴᴇʟ** : [JOIN](https://t.me/deadly_spammer)\n"
+DEADLY += f"┣➣ **ᴄʜᴀɴɴᴇʟ** : [JOIN](https://t.me/allf_ban)\n"
 
 DEADLY += f"┗━━━━━━━━━━━━━━━━━━━\n\n"
 
-DEADLY += f"🖤 [𝐑𝐄𝐏𝐎](https://github.com/deadly-fighters/DEADLY_SPAM_BOT) 🖤"            
+DEADLY += f"🖤 [𝐑𝐄𝐏𝐎](https://github.com/SUSHILxPLAYER) 🖤"            
                                     
 @SAM.on(events.NewMessage(incoming=True, pattern=r"\%salive" % hl))
 async def alive(event):
@@ -123,9 +123,9 @@ async def alive(event):
    
 # help
 
-HELP_PIC = "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+HELP_PIC = "https://te.legra.ph/file/1b99b29043777af4e3898.jpg"
 
-DEADLY = "🔥 DEADLY SPAM BOT 🔥\n\n"
+DEADLY = "🔥 CobRA SPAM BOT 🔥\n\n"
  
 DEADLY += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ__\n\n"
 
@@ -145,9 +145,9 @@ DEADLY += f" 𝙳𝙼 / 𝙴𝚌𝚑𝚘 𝙲𝚖𝚍𝚜 \n\n"
 
 DEADLY += f" `.dm` - `.dmraid` - `.dmspam` \n\n `.addecho` - `.rmecho` \n\n"
 
-DEADLY += f"All Cmds Uploaded : [•HERE•](https://t.me/DEADLY_SPAMMER/88) \n\n"
+DEADLY += f"All Cmds Uploaded : [•HERE•](https://t.me/allf_ban/) \n\n"
                                                          
-DEADLY += f"© @OFFICIAL_SAMEER | @deadly_spam_bot\n"
+DEADLY += f"© @tag_ban | @allf_ban\n"
 
 
 @SAM.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
