@@ -17,7 +17,8 @@
 ----
 
 ## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-spam-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-spam-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/deadly-spam-bot?style=plastic"></
+<p align="left"><a href="https://github.com/cuteboys
+/deadly-spam-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-spam-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-spam-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/deadly-spam-bot?style=plastic"></
 
 -------------------------------------------------
 
